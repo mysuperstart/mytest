@@ -1,3 +1,4 @@
 hot_fix fixed
+test conflict master
 
 test aaa
